@@ -1,0 +1,92 @@
+/* HEADER */
+html,
+body,
+#cover {
+	height: 100%;
+	font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 40px;
+}
+
+.paragraf {
+	font-size: 16px;
+	font-style: italic;
+	margin-bottom: 70px;
+}
+
+.btn1 {
+	background-color: #fed136;
+	border-style: none;
+	text-transform: uppercase;
+	font-size:18px;
+	padding: 20px 40px;
+}
+
+.btn1:hover {
+	background-color: #fff;
+	color: #fed136 !important;
+}
+
+.social-icons {
+	list-style-type: none; 
+	margin: 0;
+	padding: 0;
+}
+
+.social-icon {
+	display: inline;
+}
+
+.navbar{
+	background-color: black;
+}
+.sektor_1{
+	text-align: center;
+}
+.h1{
+	font-family: times new roman;
+	font-size: 30px;
+	font-style: italic;
+}
+.h2{
+	font-size: 60px;
+}
+i
+{
+	background-color: red;
+	border-radius: 50%;
+	border: 3px solid #D6D011;
+	color: #D6D011;
+	padding:20px;
+}
+#i_2{
+	background-color: white;
+	border-radius: 50%;
+	border: 3px solid black;
+	color: black;
+	padding:10px;
+}
+#i_3{
+	background-color: black;
+	border-radius: 50%;
+	border: 3px solid black;
+	color: black;
+	padding: 5px;
+}
+#i_4{
+	background-color: white;
+	border-radius: 50%;
+	border: 0px solid black;
+	color: black;
+	padding: 1px;
+}
+.d_bukucu{
+	width: 248.1px;
+	padding: 1px;
+	border-radius: 150px;
+	background: #000;
+	margin: 0 auto;
+}
